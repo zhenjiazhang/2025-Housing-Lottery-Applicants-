@@ -44,7 +44,7 @@ This story reveals how so-called “affordable” housing in Greenpoint, Brookly
 ## How to Reproduce This Analysis
 
 1. Clone this repository
-   git clone https://github.com/zhenjiazhang/2025-Housing-Lottery-Applicants-
+   git clone [https://github.com/zhenjiazhang/2025-Housing-Lottery-Applicants-](https://github.com/zhenjiazhang/2025-Housing-Lottery-Applicants-.git)
 
 
    
