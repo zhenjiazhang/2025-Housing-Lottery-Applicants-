@@ -1,0 +1,29 @@
+h1{
+    font-family: 'Times New Roman', Times, serif 'Times New Roman', serif; font-size: large;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;font-size: small;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;font-size: small;
+}
+body {
+    font-size: 16; 
+}
+.centered {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+figcaption{line-height: 1.1em;
+    font-size: .8em;
+    color: gray;
+}
+/* Centered Image Code */
+img {
+    display: block;
+    width: 85%;
+    margin: auto;
+}
